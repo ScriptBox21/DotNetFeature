@@ -23,6 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelViewController100", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadingChannel100", "ThreadingChannel100\ThreadingChannel100.csproj", "{2C837E18-4174-4595-A2C7-2D7CADA3CE77}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5872F705-9A23-4687-BC3E-3E32C810AFC8}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
