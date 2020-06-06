@@ -21,3 +21,11 @@
 /ModelViewController100/bin/Debug/netcoreapp3.1
 /ModelViewController100/obj
 /ThreadingChannel100/obj
+/Dump100/bin/Debug/netcoreapp3.1
+/Dump100/obj
+/ZSamples/DelegatingHandlerRegistrationHelper/bin/Debug
+/ZSamples/DelegatingHandlerRegistrationHelper/obj
+/ZSamples/PerRequestPolicyFiltering/bin/Debug/netcoreapp3.1
+/ZSamples/PerRequestPolicyFiltering/obj
+/ZSamples/SelectiveHandlerInvocation/bin/Debug/netcoreapp3.1
+/ZSamples/SelectiveHandlerInvocation/obj
