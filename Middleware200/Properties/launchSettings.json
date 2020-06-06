@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Middleware200": {
+      "commandName": "Project"
+    },
+    "IIS Express": {
+      "commandName": "Executable",
+      "environmentVariables": {
+        " ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

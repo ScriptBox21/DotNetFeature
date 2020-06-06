@@ -3,3 +3,21 @@
 ################################################################################
 
 /HttpClientFactory100/bin/Debug/netcoreapp3.1
+/HttpClientFactory100/obj
+/HttpClientFactory200/bin/Debug/netcoreapp3.1
+/HttpClientFactory200/obj
+/HttpClientFactory300/bin/Debug/netcoreapp3.1
+/HttpClientFactory300/obj
+/HttpClientFactory400/bin/Debug/netcoreapp3.1
+/HttpClientFactory400/obj
+/HttpClientFactory500/bin/Debug/netcoreapp3.1
+/HttpClientFactory500/obj
+/Middleware100/bin/Debug/netcoreapp3.1
+/Middleware100/obj
+/Middleware200/bin/Debug/netcoreapp3.1
+/Middleware200/obj
+/Middleware300/bin/Debug/netcoreapp3.1
+/Middleware300/obj
+/ModelViewController100/bin/Debug/netcoreapp3.1
+/ModelViewController100/obj
+/ThreadingChannel100/obj
